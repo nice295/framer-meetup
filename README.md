@@ -58,10 +58,8 @@ Day 0
 
 * How to homework
     - To make real protyping with lecture items and beautiful GUI
-    - Meetup
-    ![Meetup](https://cdn.dribbble.com/users/975748/screenshots/4410234/002.gif)
-    - Homework
-    ![Homework](https://cdn.dribbble.com/users/1091757/screenshots/3733100/mess4.gif)
+    - [Meetup](https://cdn.dribbble.com/users/975748/screenshots/4410234/002.gif)
+    - [Homework](https://cdn.dribbble.com/users/1091757/screenshots/3733100/mess4.gif)
     - Share URL before meetup
    
 
