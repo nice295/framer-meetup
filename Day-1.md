@@ -1,9 +1,6 @@
-
-Framer Meetup 2018 for Group 2 memebers
+Day 1
 ===
 
-Day 1
----
 * Before started
     - [Coffee script](https://framer.com/getstarted/guides/programming)
     - Events
@@ -44,22 +41,3 @@ Day 1
 
     - [artboards-and-layers](https://framer.cloud/gJlGA/)
         - ![image](https://framer.cloud/gJlGA/framer/social-800x600.png?version=1)
-
-Day 0
----
-* Not Class, But Meetup
-    - Meetup? 자신이 살고 있는 지역에서 서로의 관심사를 공유할 수 있는 모임
-
-* Meetup schedule
-    - 1 hour on every Friday afternoon (2pm or 3pm)
-        - 10 mins: Homework Review
-        - 30 mins: Lecture and Training 
-        - 10 mins: Q&A and Homework
-
-* How to homework
-    - To make real protyping with lecture items and beautiful GUI
-    - [Meetup](https://cdn.dribbble.com/users/975748/screenshots/4410234/002.gif)
-    - [Homework](https://cdn.dribbble.com/users/1091757/screenshots/3733100/mess4.gif)
-    - Share URL before meetup
-   
-
