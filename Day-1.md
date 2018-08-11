@@ -1,17 +1,16 @@
 Day 1
 ===
 
-* Before started
+* 시작하기 전에
+    - Prototyping = Event + Animations
     - [Coffee script](https://framer.com/getstarted/guides/programming)
-    - Events
-    - Animations (Properties and Curve)
 
-* 3 Simple steps
-    - Design
+* 프로토타이핑을 하기 위한 3 단계 작업
+    - Design (Sketch, Photoshop or Freamer Design)
     - Import
     - Add events and animations
 
-* Basic
+* Framer Basic
     - Layer
     - Layout, Hierarchy
     - Propery and Behavior
@@ -29,6 +28,8 @@ Day 1
 
 *  Etc.
     - Sound
+    - Video
+    - SVG
 
 * [Framer Docs](https://framer.com/docs/)
 
