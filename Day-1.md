@@ -18,7 +18,7 @@ Day 1
     - State
     - Event
 
-*  Advanced
+*  Framer Advanced
     - Dragging
     - Pinchable
     - Flow component
@@ -33,7 +33,7 @@ Day 1
 
 * [Framer Docs](https://framer.com/docs/)
 
-* Lectures
+* 오늘의 실습
     - [artboards-responsive](https://framer.cloud/hSKEm)
         - ![image](https://framer.cloud/hSKEm/framer/social-800x600.png?version=1)
 
@@ -42,3 +42,7 @@ Day 1
 
     - [artboards-and-layers](https://framer.cloud/gJlGA/)
         - ![image](https://framer.cloud/gJlGA/framer/social-800x600.png?version=1)
+
+* 오늘의 과제
+    - FlowComponent를 이용하여 화면 전환해 보기
+    - 
