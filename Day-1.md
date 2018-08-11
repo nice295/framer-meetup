@@ -35,14 +35,17 @@ Day 1
 
 * 오늘의 실습
     - [artboards-responsive](https://framer.cloud/hSKEm)
-        - ![image](https://framer.cloud/hSKEm/framer/social-800x600.png?version=1)
+        ![image](https://framer.cloud/hSKEm/framer/social-800x600.png?version=1)
 
     - [layers](https://framer.cloud/EsWQs/)
-        - ![image](https://framer.cloud/EsWQs/framer/social-800x600.png?version=1)
+        ![image](https://framer.cloud/EsWQs/framer/social-800x600.png?version=1)
 
     - [artboards-and-layers](https://framer.cloud/gJlGA/)
-        - ![image](https://framer.cloud/gJlGA/framer/social-800x600.png?version=1)
+        ![image](https://framer.cloud/gJlGA/framer/social-800x600.png?version=1)
 
 * 오늘의 과제
     - FlowComponent를 이용하여 화면 전환해 보기
-    - 
+    - 한 화면에서 Click event를 통해 1개 Animation 해 보기
+    
+* 과제 공유 방법
+    - Framer 내부 기능인 "Upload to Cloud"를 통해 단톡방에 공유
