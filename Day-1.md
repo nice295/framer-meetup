@@ -49,3 +49,7 @@ Day 1
     
 * 과제 공유 방법
     - Framer 내부 기능인 "Upload to Cloud"를 통해 단톡방에 공유
+
+
+* 왜 Border Radious 변경이 안 되었을까?
+    - Border Radious는 frame만 가능하다. [참고](https://help.framer.com/learning-framer/frames-and-shapes)
